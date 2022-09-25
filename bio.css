@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.nv {
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    margin: 5px;
+}
+
+.navbar-image {
+    height: 50px;
+    border-radius: 25px;
+}
+
+.bg-container-hobbies-section {
+    background-color: #f9fbfe;
+    background-size: cover;
+}
+
+.banner-section-bg-container {
+    height: 60vh;
+    background-image: url("https://res.cloudinary.com/mvjce/image/upload/v1657575446/IMG20210116072237_zv61pj.jpg");
+    background-size: cover;
+    padding-left: 30px;
+}
+
+.banner-section-card-container {
+    padding-top: 40px;
+}
+
+.banner-heading {
+    color: white;
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.banner-para {
+    color: white;
+    font-size: 25px;
+    font-style: italic;
+    text-decoration: underline;
+    margin-left: 25px;
+}
+
+.card-container {
+    padding: 25px;
+}
+
+.card-heading {
+    font-weight: bold;
+    color: black;
+    padding: 15px;
+    font-size: 25px;
+    font-style: "Roboto";
+}
+
+.hobby-card {
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.hobby-para {
+    font-style: oblique;
+    font-size: 20px;
+    padding: 0px;
+}
+
+.inline-para {
+    text-decoration: underline;
+}
+
+.card-image1 {
+    height: 150px;
+    width: 150px;
+    text-align: center;
+}
+
+.para-homepage {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+
+.j {
+    text-align: left;
+    margin-right: 50px;
+}
+
+.banner-section-card-container {
+    margin-right: 25px;
+}
+
+.cor-image {
+    width: 350px;
+    height: 200px;
+}
+
+.qr-image {
+    height: 150px;
+    width: 150px;
+    padding: 25px;
+}
+
+.qr-code-heading {
+    color: #959ead;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.follow-me-section {
+    background-color: #0d2436;
+    margin: 0px;
+    color: #ffffff;
+    background-size: cover;
+}
+
+.follow-me-heading {
+    color: #959ead;
+    font-size: 35px;
+    padding: 15px;
+    font-weight: 600;
+    font-style: Italic;
+}
+
+.qr-main-container {
+    padding: 15px;
+}
